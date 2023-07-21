@@ -1,4 +1,4 @@
-package com.example.themoviemvvm.ui
+package com.example.themoviemvvm.ui.popular_movie
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
